@@ -11,3 +11,4 @@ Git is free software distributed under the GPL.
 待删除的内容
 无法删除
 Creating a new branch is quick
+新的分支
