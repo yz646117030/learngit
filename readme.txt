@@ -12,7 +12,7 @@ Git is free software distributed under the GPL.
 无法删除
 Creating a new branch is quick
 
-新的内容
+Git is a free software ...
 
 
 
